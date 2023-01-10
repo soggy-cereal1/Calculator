@@ -7,11 +7,18 @@ class realcalculator ():
         self.a = a
         self.b = b
     
-    def FourFunction (self):
-        def sumOf(self):
-            return self.a+self.b
+    def FourFunction (a,b):
+        def sumOf():
+            return a+b
         def differenceOf():
-            return self.a+self.b
+            return a+b
             # consolidate sum and difference later
+        def productOf():
+            return a*b
+        def quotientOf():
+            return a*b
+    
+    def TrigonometryFunctions(self):
+FourFunction.sumOf(2,3)
 
         
